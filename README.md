@@ -1,1 +1,2 @@
 # Mini-Projeto-3
+Olá, como estudante da Programadores do Amanhã, recebi recentemente o desafio de identificar e resolver um problema cotidiano por meio de um diagrama conceitual. Na minha experiência de trabalho em uma farmácia, enfrentamos dificuldades com a desorganização das receitas e a distribuição dos medicamentos. Por isso, decidi elaborar um diagrama para melhorar a organização desses processos.Michelle de Souza
